@@ -101,4 +101,4 @@ Il proprietario dichiara di aver letto e compreso la presente informativa e di e
 
 La presa visione della presente informativa non costituisce consenso alla rinuncia a una visita veterinaria o comportamentale quando questa sia necessaria.
 
-**Data di aggiornamento:** [INSERIRE DATA]
+**Data di aggiornamento:** 29/09/2026
