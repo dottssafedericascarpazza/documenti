@@ -2,29 +2,26 @@
 
 ## 1. Natura del servizio
 
-La **consulenza di orientamento telematica** è un servizio a carattere esclusivamente **informativo, preventivo e divulgativo generale**.
+La **consulenza di orientamento telematica** è un servizio a carattere esclusivamente **informativo, preventivo e divulgativo**.
 
 Il servizio ha lo scopo di fornire informazioni e indicazioni di carattere generale su temi relativi al comportamento e al benessere dell'animale, favorendo una prima attività di orientamento e sensibilizzazione del proprietario.
 
-La consulenza telematica **non costituisce una visita comportamentale veterinaria** e non equivale a una valutazione clinica o comportamentale del singolo animale.
+La consulenza di orientamento telematica **non sostituisce una visita comportamentale veterinaria** e non equivale a una valutazione clinica o comportamentale del singolo animale.
 
 ---
 
-## 2. Cosa comprende la consulenza telematica
+## 2. Cosa comprende la consulenza di orientamento telematica
 
 La consulenza può comprendere, a titolo esemplificativo:
 
 * informazioni generali relative al comportamento animale;
 * indicazioni di carattere preventivo e divulgativo;
 * spiegazioni generali su tematiche comportamentali;
-* informazioni relative alla gestione e alla prevenzione di problematiche comportamentali in termini generali;
-* indicazioni su quando può essere opportuno rivolgersi a un medico veterinario per una valutazione specifica.
-
-Le informazioni fornite hanno carattere generale e divulgativo e non sono formulate sulla base di una valutazione diagnostica o comportamentale individuale dell'animale.
+* informazioni relative alla gestione e alla prevenzione di problematiche comportamentali in termini generali.
 
 ---
 
-## 3. Cosa NON comprende la consulenza telematica
+## 3. Cosa NON comprende la consulenza di orientamento telematica
 
 La consulenza di orientamento telematica **non comprende**:
 
@@ -36,9 +33,9 @@ La consulenza di orientamento telematica **non comprende**:
 * la formulazione di un piano comportamentale personalizzato;
 * la prescrizione di interventi o trattamenti specifici per il singolo animale;
 * indicazioni personalizzate relative alla gestione di una specifica situazione comportamentale;
-* la sostituzione di una visita veterinaria o di una visita comportamentale in presenza.
+* la sostituzione di una visita veterinaria o di una visita comportamentale.
 
-La semplice descrizione di una situazione, l'invio di fotografie o video o la compilazione di un questionario **non trasformano la consulenza telematica in una valutazione specifica del caso**.
+La semplice descrizione di una situazione, l'invio di fotografie o video o la compilazione di un questionario **non trasformano la consulenza di orientamento telematica in una valutazione specifica del caso**.
 
 ---
 
@@ -48,48 +45,11 @@ Qualora sia necessaria una valutazione specifica della situazione dell'animale, 
 
 La visita in presenza consente di effettuare una valutazione diretta dell'animale, raccogliere le informazioni necessarie e approfondire gli aspetti rilevanti della situazione individuale.
 
-Pertanto, quando il proprietario richieda una valutazione specifica del proprio animale o quando emerga la necessità di approfondire una problematica individuale, la consulenza telematica non costituisce una modalità alternativa alla visita in presenza.
+Pertanto, quando il proprietario richieda una valutazione specifica del proprio animale o quando emerga la necessità di approfondire una problematica individuale, la consulenza di orientamento telematica non costituisce una modalità alternativa alla visita veterinaria comportamentale.
 
 ---
 
-## 5. Materiale eventualmente inviato dal proprietario
-
-Nell'ambito della richiesta di orientamento possono essere eventualmente condivise informazioni, fotografie, video o altra documentazione.
-
-L'eventuale materiale ricevuto viene utilizzato esclusivamente nell'ambito della gestione della richiesta e della comunicazione con il proprietario.
-
-La ricezione o visione di tale materiale **non implica che venga effettuata una valutazione comportamentale specifica dell'animale**.
-
-La possibilità di fornire materiale fotografico o video non modifica la natura generale, preventiva e divulgativa del servizio.
-
----
-
-## 6. Limiti della modalità telematica
-
-La modalità telematica presenta limiti propri rispetto a una valutazione effettuata in presenza.
-
-In particolare, attraverso una consulenza di orientamento a distanza non è possibile effettuare un'osservazione diretta e completa dell'animale e del suo comportamento nel contesto in cui si manifesta la problematica.
-
-Le informazioni fornite durante la consulenza devono pertanto essere intese come **informazioni generali di orientamento** e non come valutazione professionale individuale della situazione dell'animale.
-
----
-
-## 7. Quando è necessaria una valutazione specifica
-
-È opportuno richiedere una visita comportamentale in presenza quando si desideri:
-
-* comprendere e valutare una specifica problematica comportamentale;
-* effettuare una valutazione individuale dell'animale;
-* approfondire un cambiamento comportamentale;
-* individuare le possibili cause di uno specifico comportamento;
-* ricevere indicazioni personalizzate sulla gestione della situazione;
-* impostare un percorso comportamentale individualizzato.
-
-La necessità di una visita in presenza può inoltre emergere nel corso della comunicazione con il proprietario.
-
----
-
-## 8. Presa visione dell'informativa
+## 5. Presa visione dell'informativa
 
 Il proprietario dichiara di aver letto e compreso la presente informativa e di essere consapevole che la consulenza di orientamento telematica:
 
@@ -97,8 +57,6 @@ Il proprietario dichiara di aver letto e compreso la presente informativa e di e
 * **non comprende la valutazione specifica del proprio caso**;
 * **non comprende indicazioni personalizzate relative al singolo animale**;
 * **non costituisce una visita comportamentale**;
-* **non sostituisce una visita comportamentale in presenza**, necessaria qualora sia richiesta o necessaria una valutazione specifica della situazione.
+* **non sostituisce una visita comportamentale**, necessaria qualora sia richiesta o necessaria una valutazione specifica della situazione.
 
-La presa visione della presente informativa non costituisce consenso alla rinuncia a una visita veterinaria o comportamentale quando questa sia necessaria.
-
-**Data di aggiornamento:** 29/09/2026
+**Data ultimo aggiornamento:** 30/09/2026
