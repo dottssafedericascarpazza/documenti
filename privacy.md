@@ -1,4 +1,4 @@
-# INFORMATIVA SUL TRATTAMENTO DEI DATI PERSONALI
+# Informativa sul trattamento dei dati personali
 
 **(artt. 13-14 Reg. UE n. 2016/679)**
 
@@ -55,3 +55,5 @@ In relazione ai dati oggetto del trattamento di cui alla presente informativa, a
 8. **Proporre reclamo all'Autorità Garante per la Protezione dei dati personali** (art. 51 Regolamento UE n. 2016/679).
 
 L'esercizio dei predetti diritti può essere esercitato mediante comunicazione scritta da inviare a mezzo PEC all'indirizzo **federica.scarpazza@pec.ordinevet.mi.it** o lettera raccomandata A/R all'indirizzo **Via Albarella, 1/L, Settimo Milanese (MI)**.
+
+**Data ultimo aggiornamento:** 30/09/2026
